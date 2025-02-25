@@ -38,14 +38,14 @@ author:
   orcid            : "https://orcid.org/0000-0002-2484-2494"
   semantic         : # URL
   pubmed           : 
-  researchgate     : "https://www.researchgate.net/"
+  researchgate     : "https://www.researchgate.net/profile/Jun-Yang-224"
   scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "KYang-N"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -64,7 +64,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : "Aporia"
+  zhihu            : "heaven-blue-2"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
