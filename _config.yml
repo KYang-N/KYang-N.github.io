@@ -15,7 +15,7 @@ name                     : &name "Jun Yang"
 description              : &description "PhD Student at Georgia Tech"
 url                      : "https://KYang-N.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "github.com/KYang-N"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jun Yang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Student at Georgia Tech"
   location         : "Atlanta"
   employer         : ""
   uri              : # URL
@@ -38,7 +38,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-2484-2494"
   semantic         : # URL
   pubmed           : 
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/"
   scopus           : # URL
 
   # Repositories and software development
@@ -51,21 +51,12 @@ author:
 
   # Social media
   bluesky          :  # Replace this with you Bluesky username
-  facebook         : # Username
   flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
   tumblr           : # Username
   twitter          : "Jun_K_Yang"
   vine             : # Username
