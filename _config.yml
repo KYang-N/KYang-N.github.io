@@ -13,7 +13,7 @@ title                    : "Jun Yang"
 title_separator          : "|"
 name                     : &name "Jun Yang"
 description              : &description "PhD Student at Georgia Tech"
-url                      : https://junkyang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://KYang-N.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
