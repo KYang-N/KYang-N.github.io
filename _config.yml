@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jun Yang"
+title                    : "About"
 title_separator          : "|"
 name                     : &name "Jun Yang"
 description              : &description "PhD Student at Georgia Tech"
@@ -26,8 +26,8 @@ author:
   name             : "Jun Yang"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student at Georgia Tech"
-  location         : "Atlanta"
-  employer         : ""
+  location         : "Atlanta, GA"
+  employer         : "Georgia Institute of Technology "
   uri              : # URL
   email            : "junkyang@gatech.edu" 
 
