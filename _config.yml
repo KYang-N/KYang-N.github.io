@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "About me"
-title_separator          : "&vert;"
+title_separator          : "-"
 name                     : &name "Jun (Keith) Yang"
 description              : &description "PhD Student at Georgia Tech"
 url                      : "https://KYang-N.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
