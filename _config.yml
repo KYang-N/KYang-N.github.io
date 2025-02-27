@@ -37,9 +37,9 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-2484-2494"
   semantic         : # URL
-  pubmed           : 
+  pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/jun.yang.26/bibliography/public/"
   researchgate     : "https://www.researchgate.net/profile/Jun-Yang-224"
-  scopus           : # URL
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57221479589"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
