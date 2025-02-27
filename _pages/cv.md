@@ -14,5 +14,5 @@ Education
 * Ph.D in Quantitative Biosciences, Georgia Institute of Technology, 2029 (expected)
 * B.S. & B.Eng. in Mathematics and Physics + Electrical Engineering , Tsinghua University, 2024
 
-Download my CV here.
+Download my CV [here](/CV/CV_Jun_Yang.pdf).
   
