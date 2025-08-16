@@ -7,4 +7,4 @@ venue: "School of Mathematics, Georgia Tech"
 semester: "2025 Spring"
 location: 
 ---
-Teaching assistant for MATH 1553. Instructed recitation (studio) and graded exams.
+Teaching assistant for MATH 1553. Instructed recitations (studios) and graded exams.
