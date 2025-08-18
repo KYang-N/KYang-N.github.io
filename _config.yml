@@ -70,6 +70,8 @@ author:
 publication_category:
   preprint:
     title: 'Preprints'
+  permanent-preprint:
+    title: 'Permanent Preprints'
   article:
     title: 'Journal Articles'    
   conference:
