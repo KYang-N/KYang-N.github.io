@@ -2,9 +2,12 @@
 title: "MATH 4221 Stochastic Processes I"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2025-fall-teaching-1.md
+redirect_from:
+  - /teaching/2025-fall-teaching-1.md
 venue: "School of Mathematics, Georgia Tech"
-semester: "2025 Fall"
+semester: "Fall 2025"
+term_sort: 2025032
+role: "Lecture Assistant"
 location: 
 ---
-Teaching assistant for MATH 4221. Grader.
+Served as course grader.

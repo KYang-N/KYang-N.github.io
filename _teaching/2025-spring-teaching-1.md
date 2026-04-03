@@ -2,9 +2,12 @@
 title: "MATH 1553 Intro to Linear Algebra"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2025-spring-teaching-1.md
+redirect_from:
+  - /teaching/2025-spring-teaching-1.md
 venue: "School of Mathematics, Georgia Tech"
-semester: "2025 Spring"
+semester: "Spring 2025"
+term_sort: 2025011
+role: "Teaching Assistant"
 location: 
 ---
-Teaching assistant for MATH 1553. Instructed recitations (studios) and graded exams.
+Led recitation sections (studios) and graded exams.

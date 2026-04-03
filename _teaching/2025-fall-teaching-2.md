@@ -2,9 +2,12 @@
 title: "MATH 4581 Mathematical Methods in Engineering"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2025-fall-teaching-2.md
+redirect_from:
+  - /teaching/2025-fall-teaching-2.md
 venue: "School of Mathematics, Georgia Tech"
-semester: "2025 Fall"
+semester: "Fall 2025"
+term_sort: 2025031
+role: "Lecture Assistant"
 location: 
 ---
-Teaching assistant for MATH 4581. Grader.
+Served as course grader.
